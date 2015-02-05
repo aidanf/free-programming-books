@@ -112,7 +112,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Mercury](#mercury)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
-* [.NET Framework](#net-framework)
+* [.NET Framework](#net-framework)S
 * [Neo4J](#neo4j)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
@@ -1772,6 +1772,7 @@ See also [TeX](#tex)
 ### Swift
 * [The Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) (iBook)
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) (iBook)
+* [Learn Swift](http://www.swift-tutorial.io/learn-swift)
 
 
 ### Tcl
